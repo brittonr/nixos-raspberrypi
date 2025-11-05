@@ -1,0 +1,1 @@
+console=serial0,115200n8 console=tty1 loglevel=7 lsm=landlock,yama,bpf root=/dev/disk/by-uuid/d401cb6f-b972-4786-89ad-5e9b70d922dc init=/nix/store/lgc2knmfrwqsj5gnhsnlb9nq4zc9qw37-nixos-system-cm5-nixos-25.05.20250922.d8551a2/init

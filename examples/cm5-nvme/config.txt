@@ -1,0 +1,9 @@
+[pi5]
+kernel=Image
+initramfs initrd followkernel
+arm_64bit=1
+enable_uart=1
+uart_2ndstage=1
+dtparam=pciex1
+dtparam=pciex1_gen=3
+os_check=0

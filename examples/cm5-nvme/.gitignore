@@ -1,0 +1,17 @@
+# Nix build results
+result
+result-*
+
+# Direnv
+.direnv/
+
+# Pre-commit
+.pre-commit-config.yaml
+
+# Virtual machine images
+*.qcow2
+*.img
+
+# Runtime files
+*.sock
+current
